@@ -15,7 +15,7 @@
   <img align="center" alt="Yusuf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yusuf-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Yusuf-pic" height="150" style="border-radius:50px"
        src="https://media-exp1.licdn.com/dms/image/C4D03AQEq5w6hQM7QUQ/profile-displayphoto-shrink_800_800/0/1636812370401?e=1657152000&v=beta&t=D23LEZDSwofV7xNEguHcKFU1wCuZ4LDOzHI-Q7o_fzw">
 </div>
   
