@@ -27,7 +27,7 @@
   <a href = "mailto:yusufmilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yusufmilla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<a href="https://app.daily.dev/yusufmilla" style="margin:0 auto"><img src="https://github.com/Damhafi/Damhafi/blob/main/devcard.svg" width="400" alt="Yusuf Hafi's Dev Card"/></a>
+<a href="https://app.daily.dev/yusufmilla" style="margin:10px auto"><img src="https://github.com/Damhafi/Damhafi/blob/main/devcard.svg" width="400" alt="Yusuf Hafi's Dev Card"/></a>
  
   ![Snake animation](https://github.com/Damhafi/Damhafi/blob/output/github-contribution-grid-snake.svg)
  
