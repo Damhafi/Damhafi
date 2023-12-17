@@ -1,4 +1,4 @@
-### Hey there, I am Yusuf Hafi (Front-End Developer) 👋
+### Hey there, I am Yusuf Hafi (FullStack Developer) 👋
 
 <div align="center">
   <a href="https://github.com/Damhafi">
