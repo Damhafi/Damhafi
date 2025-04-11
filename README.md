@@ -15,15 +15,101 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,nodejs,python,selenium" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,figma" />
-</p>
+### Frontend Development
+
+<table>
+<tr>
+<td width="33%">
+
+#### JavaScript & TypeScript  
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular" />
+
+</td>
+<td width="33%">
+
+#### Styling  
+<img src="https://skillicons.dev/icons?i=tailwind,css,html,figma,styledcomponents" />
+
+</td>
+<td width="33%">
+
+#### Frameworks & UI  
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### Mobile & Testing
+
+<table>
+<tr>
+<td width="50%">
+
+#### Mobile & PWA  
+<img src="https://skillicons.dev/icons?i=react,androidstudio" />
+
+</td>
+<td width="50%">
+
+#### Testing & QA  
+<img src="https://skillicons.dev/icons?i=jest,selenium,cypress" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### Backend & Infrastructure
+
+<table>
+<tr>
+<td width="33%">
+
+#### Backend Languages  
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+
+</td>
+<td width="33%">
+
+#### Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+
+</td>
+<td width="33%">
+
+#### Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tools & Workflow
+
+<table>
+<tr>
+<td width="50%">
+
+#### Dev Tools  
+<img src="https://skillicons.dev/icons?i=vscode,vercel,github" />
+
+</td>
+<td width="50%">
+
+#### Project Management  
+<img src="https://skillicons.dev/icons?i=trello,notion" />
+
+</td>
+</tr>
+</table>
 
 ---
 
