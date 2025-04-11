@@ -51,7 +51,7 @@
 <td width="50%">
 
 #### Mobile & PWA  
-<img src="https://skillicons.dev/icons?i=react,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 </td>
 <td width="50%">
