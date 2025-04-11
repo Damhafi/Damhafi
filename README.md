@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Fullstack JavaScript/TypeScript focado em Front-end, Low-code e DevOps
 
-- 💼 **Desenvolvedor Full Stack na [Tata Consultancy Services](https://www.tcs.com/)**
+- 💼 **Desenvolvedor Full Stack na [CertSys](https://www.certsys.com.br/)**
 - 💻 **Experiência com ReactJS, NextJS, Angular, OutSystems e práticas de DevOps**
 - 📚 **Atualmente estudando:** Integrações com Selenium, automações com Python, arquiteturas modernas
 - ⚙️ **Tecnologias favoritas:** TypeScript, React, Firebase, Selenium, GCP
