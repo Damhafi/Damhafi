@@ -1,74 +1,84 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEq5w6hQM7QUQ/profile-displayphoto-shrink_800_800/0/1636812370401?e=1657152000&v=beta&t=D23LEZDSwofV7xNEguHcKFU1wCuZ4LDOzHI-Q7o_fzw" width="200" style="border-radius:50%;" alt="Yusuf Hafi">
-      </td>
-      <td>
-        <h1>👋 Hey, I'm Yusuf Hafi</h1>
-        <p><i>Fullstack Developer turning ideas into code</i></p>
-        
-        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3982F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Specialist;React+%26+Angular+Expert;Passionate+Problem+Solver)](https://git.io/typing-svg)
-      </td>
-    </tr>
-  </table>
-</div>
+# 👋 Olá, eu sou o Yusuf Milla
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Damhafi&label=Profile%20views&color=3982F7&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Damhafi&label=Profile%20views&color=3982F7&style=flat" alt="Profile Views"/>
 </p>
 
-## 💻 Tech Stack
+### Desenvolvedor Fullstack JavaScript/TypeScript focado em Front-end, Low-code e DevOps
+
+- 💼 **Desenvolvedor Full Stack na [Tata Consultancy Services](https://www.tcs.com/)**  
+- 💻 **Experiência com ReactJS, NextJS, Angular, OutSystems e práticas de DevOps**  
+- 📚 **Estudando atualmente:** Integrações com Selenium, automações com Python, arquiteturas modernas
+- 🧠 **Tecnologias favoritas:** TypeScript, React, Next.js, Firebase, OutSystems
+- 📫 **Contato:** yusufmilla@gmail.com
+- ⚡ **Curiosidade:** Consigo aliviar azia com limão 🍋 ou Sorrizal 😅
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,python,selenium" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,nodejs,python,selenium" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,figma" />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp&theme=light" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,firebase,figma&perline=5" />
-  </a>
-</p>
+
+---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Damhafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damhafi&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Damhafi&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Damhafi&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-## 🔥 Streak Stats
+---
+
+## 🔥 GitHub Streak
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damhafi&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damhafi&theme=tokyonight" />
 </div>
 
-## 🌟 Featured Project
+---
+
+## 🚀 Projeto em Destaque
+
 <div align="center">
   <a href="https://github.com/Damhafi/your-featured-repo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damhafi&repo=your-featured-repo&theme=tokyonight" />
   </a>
 </div>
 
-## 🌐 Connect With Me
+---
+
+## 🌐 Conecte-se Comigo
+
 <div align="center">
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="mailto:yusufmilla@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yusufmilla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+
+---
+
+## 🧾 Meu DevCard no Daily.dev
 
 <div align="center">
   <a href="https://app.daily.dev/yusufmilla">
@@ -76,21 +86,10 @@
   </a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Damhafi/Damhafi/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+---
 
-<!--
-<details>
-  <summary>👨‍💻 More About Me</summary>
-  <ul>
-    <li>🔭 I'm currently working on improving web accessibility</li>
-    <li>🌱 I'm currently learning about microservices architecture</li>
-    <li>👯 I'm looking to collaborate on open-source projects</li>
-    <li>💬 Ask me about JavaScript, React, or Angular</li>
-    <li>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes</li>
-  </ul>
-</details>
--->
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://github.com/Damhafi/Damhafi/blob/output/github-contribution-grid-snake.svg" />
+</div>
