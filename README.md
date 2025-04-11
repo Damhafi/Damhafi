@@ -113,13 +113,8 @@
 
 ---
 
-## 📈 Coding Activity — WakaTime
-
-> _(Substitua o link pelo seu ID assim que tiver)_  
-> Vá em [https://wakatime.com](https://wakatime.com), ative o plugin e copie seu badge SVG:
-
 ```html
-<img alt="Coding Activity" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
+<img alt="Coding Activity" src="https://wakatime.com/share/@XXXXXXX/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 ```
 
 ---
