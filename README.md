@@ -11,16 +11,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,js,html,css,python,selenium" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,python,selenium" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp&theme=light" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,firebase,figma&perline=5" />
