@@ -113,12 +113,6 @@
 
 ---
 
-```html
-<img alt="Coding Activity" src="https://wakatime.com/share/@XXXXXXX/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
