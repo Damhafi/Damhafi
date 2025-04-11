@@ -21,18 +21,6 @@ Habilidades
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,firebase,figma&perline=5" />
   </a>
 </p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yusuf-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="Yusuf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yusuf-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yusuf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Yusuf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yusuf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yusuf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yusuf-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="right" alt="Yusuf-pic" height="150" style="border-radius:50px"
-    src="https://media-exp1.licdn.com/dms/image/C4D03AQEq5w6hQM7QUQ/profile-displayphoto-shrink_800_800/0/1636812370401?e=1657152000&v=beta&t=D23LEZDSwofV7xNEguHcKFU1wCuZ4LDOzHI-Q7o_fzw">
-</div>
 Contato
 <div> 
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
