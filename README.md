@@ -1,8 +1,17 @@
 <div align="center">
-  <h1>👋 Hey, I'm Yusuf Hafi</h1>
-  <p><i>Fullstack Developer turning ideas into code</i></p>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3982F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Specialist;React+%26+Angular+Expert;Passionate+Problem+Solver)](https://git.io/typing-svg)
+  <table>
+    <tr>
+      <td>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEq5w6hQM7QUQ/profile-displayphoto-shrink_800_800/0/1636812370401?e=1657152000&v=beta&t=D23LEZDSwofV7xNEguHcKFU1wCuZ4LDOzHI-Q7o_fzw" width="200" style="border-radius:50%;" alt="Yusuf Hafi">
+      </td>
+      <td>
+        <h1>👋 Hey, I'm Yusuf Hafi</h1>
+        <p><i>Fullstack Developer turning ideas into code</i></p>
+        
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3982F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Specialist;React+%26+Angular+Expert;Passionate+Problem+Solver)](https://git.io/typing-svg)
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
