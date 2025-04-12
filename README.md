@@ -10,7 +10,7 @@
 - 💻 **Experiência com ReactJS, NextJS, Angular, OutSystems e práticas de DevOps**
 - 📚 **Atualmente estudando:** Integrações com Selenium, automações com Python, arquiteturas modernas
 - ⚙️ **Tecnologias favoritas:** TypeScript, React, Firebase, Selenium, GCP
-- 📫 **Contato:** yusufmilla@gmail.com
+- 📫 **Contato:** yusufmilladev@gmail.com
 - ⚡ **Curiosidade:** Consigo aliviar azia com limão 🍋 ou Sorrizal 😅
 
 ---
