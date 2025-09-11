@@ -4,12 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=Damhafi&label=Profile%20views&color=3982F7&style=flat" alt="Profile Views"/>
 </p>
 
-### Desenvolvedor Fullstack JavaScript/TypeScript focado em Front-end, Low-code e DevOps
+### Desenvolvedor Fullstack JavaScript/TypeScript, Low-code e DevOps
 
 - 💼 **Desenvolvedor Full Stack na [CertSys](https://www.certsys.com.br/)**
 - 💻 **Experiência com ReactJS, NextJS, Angular, OutSystems e práticas de DevOps**
-- 📚 **Atualmente estudando:** Integrações com Selenium, automações com Python, arquiteturas modernas
-- ⚙️ **Tecnologias favoritas:** TypeScript, React, Firebase, Selenium, GCP
+- 📚 **Atualmente estudando:** Automações com N8N, Python, Selenium
+- ⚙️ **Tecnologias favoritas:** TypeScript, React, NextJs, TRPC, Express, Firebase, Selenium, N8N e OutSystems
 - 📫 **Contato:** yusufmilladev@gmail.com
 - ⚡ **Curiosidade:** Consigo aliviar azia com limão 🍋 ou Sorrizal 😅
 
