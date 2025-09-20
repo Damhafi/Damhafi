@@ -11,7 +11,6 @@
 - 📚 **Atualmente estudando:** Automações com N8N, Python, Selenium
 - ⚙️ **Tecnologias favoritas:** TypeScript, React, NextJs, TRPC, Express, Firebase, Selenium, N8N e OutSystems
 - 📫 **Contato:** yusufmilladev@gmail.com
-- ⚡ **Curiosidade:** Consigo aliviar azia com limão 🍋 ou Sorrizal 😅
 
 ---
 
